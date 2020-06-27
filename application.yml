@@ -5,11 +5,11 @@ spring:
 ---
 spring:
   profiles:
-    application:
-        name: dev
+  application:
+    name: dev
 
 ---
 spring:
   profiles:
-    application:
-        name: test
+  application:
+    name: test
